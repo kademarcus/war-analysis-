@@ -1,11 +1,13 @@
 rm(list=ls())
 #installs
-install.packages("dplyr")
-install.packages("gt")
+#install.packages("dplyr")
+#install.packages("gt")
+#install.packages("haven")
 
 #libraries
 library(dplyr)
 library(gt)
+library(haven)
 
 #Data Reading
 War_Data <- read_dta("stata_data.dta")
