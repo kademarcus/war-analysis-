@@ -21,4 +21,4 @@ Correlates of War's Composite Index of National Capability, and Michael Horowitz
   
 ## Conclusions
 - This war did fit the profile of the Balance of Power theory of War, as Israel had a large increase in power that outpaced the other nations at war with it
-- This war also supproted Horowitz and Stam's logistic regression analysis, as the probabilites of leader initation were either at the average probability or higher. 
+- This war also supproted Horowitz and Stam's logistic regression analysis, as the probabilites of leader initation were either at the average probability (0.006) or higher. 
