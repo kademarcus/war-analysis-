@@ -7,11 +7,11 @@
 
 ## Tools used
 - This report used exclusivley R for data processing, cleaning, and analysis.
-- 
+
 ## Data
 - The data this report used comes from Military Mark Souva's Material Military Power (https://journals.sagepub.com/doi/abs/10.1177/00223433221112970)
 Correlates of War's Composite Index of National Capability, and Michael Horowitz and Allan Stam's Leader Experience, Attribute, and Decision dataset.
-- Citations can be found in the "Report" folder
+- Citations and where to find the data can be found in the "Report" folder in the Works Cited Page
 
 ## Analaysis
 - For the power analysis, I argued that the Balance of Power theory applies, and compared the power levels of the countries involved in the Arab Israeli War of 1948
